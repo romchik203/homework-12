@@ -1,0 +1,13 @@
+{
+  "dump": "C:\\Users\\ryago\\OneDrive\\Desktop\\Уник\\python\\dhcp.pcapng",
+  "packets": 4,
+  "bytes": 1312,
+  "protocols": {
+    "UDP": 4
+  },
+  "top_ports": {
+    "67": 4,
+    "68": 4
+  },
+  "unique_ips": 4
+}
