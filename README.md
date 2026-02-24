@@ -69,12 +69,4 @@
 - `dns_over_time.png` — динамика DNS (если есть)
 - `http_hosts.png` — топ HTTP-хостов (если есть)
 
----
 
-## Запуск
-ash
-# Анализ первого найденного дампа в папке
-python homwork12.py
-
-# Анализ указанного файла
-python homwork12.py "путь/к/файлу.pcapng"
